@@ -1,0 +1,19 @@
+browser= chrome
+url=https://opensource-demo.orangehrmlive.com/
+#login credentials
+
+edgebrowser = edge
+flipkartUrl = https://www.flipkart.com/
+
+Flipkart Login Credentials
+flipkartUsername = 8500743728
+flipkartPassword = admin123
+
+username=Admin
+password=admin123
+
+#OrangeHrm Admin details
+adminUserName = Admin
+adminUserType = Admin
+adminEmployeeName = Linda Anderson
+adminStatus = Enabled
